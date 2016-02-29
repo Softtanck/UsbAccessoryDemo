@@ -1,8 +1,2 @@
 # UsbAccessoryDemo
 Usb Accessory Mode
-
-
-
-
-
-
